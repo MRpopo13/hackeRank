@@ -1,15 +1,18 @@
-package com.company;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.stream.IntStream;
 
-public class Solution {
-
+/**
+ * hackerrank
+ * Created the 06/06/18 at 5:48 PM
+ *
+ * @author Bakari Nouhou
+ */
+public class Fibonacci {
     public static void main(String[] args) throws Exception {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Fibonacci. */
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line;
         while ((line = br.readLine()) != null) {

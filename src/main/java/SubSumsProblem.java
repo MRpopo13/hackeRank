@@ -1,5 +1,3 @@
-package com.company;
-
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -7,8 +5,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * interviewTraining
- * Created the 31/05/18 at 4:02 PM
+ * hackerrank
+ * Created the 06/06/18 at 5:50 PM
  *
  * @author Bakari Nouhou
  */
